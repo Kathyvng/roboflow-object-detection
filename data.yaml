@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Goggles']
+
+roboflow:
+  workspace: kathy-portfolio
+  project: ppe-safety-goggles-compliance-demo-8hm10
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kathy-portfolio/ppe-safety-goggles-compliance-demo-8hm10/dataset/8

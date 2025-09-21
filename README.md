@@ -1,4 +1,4 @@
-# roboflow-object-detection PPE safety goggles compliance
+# roboflow-object-detection 
 
 🥽 PPE Goggle Detection with Roboflow (RF-DETR Nano)
 
